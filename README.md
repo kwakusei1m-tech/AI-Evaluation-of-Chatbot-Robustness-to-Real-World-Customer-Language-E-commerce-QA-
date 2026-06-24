@@ -165,5 +165,4 @@ Difficult prompts are handled safely but responses remain generic.
 
 ---
 
-## 📂 Project Structure
 
